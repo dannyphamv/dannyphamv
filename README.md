@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dannyphamv
 - 👀 I’m interested in esports and video games
-- 🌱 I’m currently studying Data Analytics @ Bellevue College
+- 🌱 I’m currently majoring Data Analytics @ Bellevue College (Fall 2021 Grad)
+- 💼 I'm open to work as a Data/Business Analyst
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me - dannyphamv@gmail.com
 
