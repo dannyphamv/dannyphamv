@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dannyphamv
-- 👀 I’m interested in esports and video games
-- 🌱 I’m currently majoring in Data Analytics @ Bellevue College (Fall 2021 Grad)
-- 💼 I'm open to work as a Data/Business Analyst
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in video games and skincare
+- 🌱 I have a Bachelor of Applied Science in Data Analytics
+- 💼 I am looking for work as a Data Analyst
 - 📫 How to reach me - dannyphamv@gmail.com
+- 📝 Look at my resume - standardresume.co/r/dannyphamv
 
 <!---
 dannyphamv/dannyphamv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
