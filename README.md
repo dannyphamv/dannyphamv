@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dannyphamv
-- 👀 My hobbies are video games and skincare
 - 🌱 I have a Bachelor of Applied Science in Data Analytics
 - 💼 I am looking for work as a Data Analyst
 - 📫 How to reach me - dannyphamv@gmail.com
