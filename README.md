@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dannyphamv
 - 🌱 I have a Bachelor of Applied Science in Data Analytics
-- 💼 I am looking for work as a entry level Data Analyst
 - 📫 How to reach me - danny@dannyphamv.com
 
 <!---
